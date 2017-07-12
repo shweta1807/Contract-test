@@ -1,0 +1,7 @@
+com/hbc/contract/utils/GivenPOSTHeaders.class
+com/hbc/contract/ProductDetailServiceContractTest.class
+com/hbc/contract/utils/ContractTestConfig.class
+com/hbc/contract/OMSInventoryServiceContractTest.class
+com/hbc/contract/ToggleServiceContractTest.class
+com/hbc/contract/utils/ConfigProperties.class
+com/hbc/contract/utils/GivenHeaders.class

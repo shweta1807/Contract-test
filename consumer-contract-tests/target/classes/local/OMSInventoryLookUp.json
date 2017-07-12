@@ -1,0 +1,12 @@
+{
+  "international_order": false,
+  "items": [
+    {
+      "item_id": "825466926998",
+      "quantity": 1,
+      "address": null,
+      "pickup_store_id": "671",
+      "fulfillment_type": "PICKUP"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "ship_type": "PICKUP",
+  "expiration_date": "2015-07-02T12:53:46-04:00",
+  "items": [
+    {
+      "item_id": "825466931084",
+      "quantity": 1,
+      "fulfillment_type": "PICKUP",
+      "address": {
+        "state": "NY",
+        "country": "US",
+        "zip": "10017"
+      }
+    }
+  ]
+}
+

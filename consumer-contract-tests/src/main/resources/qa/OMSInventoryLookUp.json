@@ -1,0 +1,14 @@
+{
+  "organization_code": "SAKS",
+  "items": [
+    {
+      "item_id": "825466931084",
+      "quantity": 1,
+      "address": null,
+      "pickup_store_id": "8601",
+      "fulfillment_type": "PICKUP",
+      "line_id":0
+    }
+  ],
+  "international_order": false
+}
